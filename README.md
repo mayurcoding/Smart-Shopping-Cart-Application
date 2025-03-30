@@ -211,6 +211,5 @@ This **Smart Shopping Cart** project is a great foundation for building **full-s
 ---
 
 ## **📌 Author & Contribution**
-- **Author:** [Your Name]
-- **GitHub:** [Your GitHub Profile]
-- **Contributions:** Fork this repo and submit a PR! 🎉
+- **Author:** [Mayur Rastogi]
+- **GitHub:** [mayurcoding]
